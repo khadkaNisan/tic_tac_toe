@@ -6,12 +6,10 @@
 }
 
 body {
-  /* background-color: #f0f4f8; */
   background-color: #a4b8c4;
   display: flex;
   justify-content: center;
   align-items: center;
-  /* min-height: 100vh; */
 }
 
 main {
